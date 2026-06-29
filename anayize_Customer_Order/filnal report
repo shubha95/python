@@ -1,0 +1,60 @@
+
+================================================================================
+COMPREHENSIVE E-COMMERCE ANALYSIS REPORT
+================================================================================
+
+📊 EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total Customers: 7
+Active Customers: 7
+Total Revenue: $1,420
+Average Order Value: $202.86
+Total Categories: 5
+Unique Products Sold: 7
+
+================================================================================
+👥 CUSTOMER CLASSIFICATION ANALYSIS
+--------------------------------------------------------------------------------
+
+High-Value Buyers (5): John, Jane, Smith, anish, shubham
+  Combined Revenue: $2420
+  Average Spend: $484.00
+
+Low-Value Buyers (2): Doe, satyam
+  Combined Revenue: $80
+  Average Spend: $40.00
+
+================================================================================
+📈 CATEGORY PERFORMANCE ANALYSIS
+--------------------------------------------------------------------------------
+Category             Revenue         % Share         Avg Order      
+--------------------------------------------------------------------------------
+Art                  $20                1.4%       $20.00         
+Education            $420              29.6%       $140.00        
+Electronics          $900              63.4%       $450.00        
+Grocery              $20                1.4%       $20.00         
+Home Decor           $60                4.2%       $60.00         
+--------------------------------------------------------------------------------
+TOTAL                $1,420          100.0%
+
+================================================================================
+🛍️  PRODUCT INSIGHTS
+--------------------------------------------------------------------------------
+
+Top Products by Frequency:
+  • pencil: 2 order(s)
+  • Laptop: 1 order(s)
+  • Smartphone: 1 order(s)
+  • Painting: 1 order(s)
+  • glass: 1 order(s)
+
+================================================================================
+💡 KEY BUSINESS INSIGHTS
+--------------------------------------------------------------------------------
+1. Electronics dominates with 63.4% of total revenue
+2. Top spender: Jane with $1600 in orders
+3. 5 out of 7 customers are high-value buyers
+4. 'Pencil' is the most frequently purchased item (2 purchases)
+5. Electronics & Education segments have no product overlap
+
+================================================================================
