@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+langchain
+langchain-google-genai
+python-dotenv
+yfinance
+ta
+matplotlib
+plotly
