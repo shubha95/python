@@ -3,3 +3,6 @@
 __pycache__/
 .claude/
 .venv-py314-backup/
+capstone/Datasets/Capstone_1/
+capstone/Datasets/Capstone_2/
+capstone/Datasets/Capstone_3/
