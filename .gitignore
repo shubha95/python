@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+__pycache__/
+.claude/
+.venv-py314-backup/
